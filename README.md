@@ -67,9 +67,8 @@ npm install @grpc/grpc-js // Beta
 ##### Project Installation
 ```
 1. yarn init -y
-2. yarn add grpc uuid  
-
-3. yarn build // Generate JS and TS proto files
+2. yarn add grpc uuid
+3. yarn add @grpc/proto-loader
 ```
 
 ##### Project Installation
