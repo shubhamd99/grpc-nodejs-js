@@ -1,0 +1,10 @@
+{
+  "name": "grpc-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "grpc": "^1.24.6",
+    "uuid": "^8.3.2"
+  }
+}
